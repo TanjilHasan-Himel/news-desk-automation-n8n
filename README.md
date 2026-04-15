@@ -59,14 +59,14 @@ graph TD
 ```
 ### 📸 Project Screenshots
 
-![Output](Screenshot%202026-04-15%20191035.png)
+![Output](1.png)
 
-![Workflow](Screenshot%202026-04-15%20191827.png)
+![Workflow](2.png)
 
-![Prompt](Screenshot%202026-04-15%20192640.png)
+![Prompt](3.png)
 
-![Database](Screenshot%202026-04-15%20192725.png)
+![Database](4.png)
 
-![Database](Screenshot%202026-04-15%20192816.png)
+![Database](5.png)
 
-![Database](Screenshot%202026-04-15%20193806.png)
+![Database](6.png)
